@@ -20,3 +20,7 @@ So far yang sudah aku tes dan fungsi:
 - Slot USB
 - Sleep dan Wakeup
 
+Installer pakai olarila, burn ke flashdisk pakai Balena Etcher.
+
+Disclaimer:
+Kredit sepenuhnya untuk masing-masing creator baik kext, patch, dan tutorial. Aku hanya asal comot jadi aku enga ambil kredit (ngaku-ngaku) sama sekali
